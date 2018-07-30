@@ -1,0 +1,21 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "a tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "ned",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.1",
+    "nodemon": "^1.18.3",
+    "superagent": "^3.8.3"
+  }
+}
